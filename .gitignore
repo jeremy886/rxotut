@@ -1,3 +1,7 @@
+*.db
+*.py[cod]
+.web
+assets/external/
 # Python-generated files
 __pycache__/
 *.py[oc]
